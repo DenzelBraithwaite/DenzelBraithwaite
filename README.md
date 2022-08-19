@@ -1,17 +1,15 @@
 <h1 align="center">Hey👋🏽, I'm Denzel</h1>
-<h3 align="center">A Junior Full Stack Developer🚀</h3>
+<h3 align="center">A Junior Front-end Developer🚀</h3>
 
-- 🌱 I’m currently learning [React & Python](https://github.com/DenzelBraithwaite/100-days-of-Python)
+- 🌱 I’m currently focusing on JavaScript and React
 
 - 🎓 I graduated Le Wagon and built [Food4All](https://troopl.com/denzelbraithwaite/food4all)
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/denzelbraithwaite](https://troopl.com/denzelbraithwaite)
 
-- 💬 Ask me about **Ruby💎**
-
 - 📫 Reach me on LinkedIn or by Email --> **braithwaite.de@gmail.com**
 
-- 🤔 Hobbies other than coding? **🛹Longboarding and chess ♟️**
+- 🤔 Hobbies other than coding? **♟️Chess and longboards🛹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
