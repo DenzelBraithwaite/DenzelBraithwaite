@@ -3,7 +3,7 @@
 
 <br>
 
-- 🤓 I’m currently focusing on JavaScript and React
+- 🤓 I’m currently focusing on JavaScript and PHP
 
 - 🎓 I graduated Le Wagon and built [Food4All](https://troopl.com/denzelbraithwaite/food4all)
 
