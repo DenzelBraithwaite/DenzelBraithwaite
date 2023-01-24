@@ -1,13 +1,13 @@
 <h1 align="center">Hey👋🏽</h1>
-<h3 align="center">I'm Denzel, a Front-end Developer💻 </h3>
+<h3 align="center">I'm Denzel, a Full-Stack Developer💻 </h3>
 
 <br>
 
-- 🤓 I’m currently focusing on JavaScript and PHP
+- 🤓 I’m currently focusing on building with Svelte and PHP/SQL
 
 - 🎓 I graduated Le Wagon and built [Food4All](https://troopl.com/denzelbraithwaite/food4all)
 
-- 🧑🏽‍💻 All of my projects are available at [https://troopl.com/denzelbraithwaite](https://troopl.com/denzelbraithwaite)
+- 🧑🏽‍💻 Check out some of my projects here [https://troopl.com/denzelbraithwaite](https://troopl.com/denzelbraithwaite)
 
 - 📫 Reach me on LinkedIn or by Email --> **braithwaite.de@gmail.com**
 
